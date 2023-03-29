@@ -1,0 +1,7 @@
+{
+  "type": "JEST",
+  "name": "scalar-types",
+  "jest": {
+    "jestCliArgs": []
+  }
+}

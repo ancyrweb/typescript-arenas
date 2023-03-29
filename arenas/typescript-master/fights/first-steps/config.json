@@ -1,0 +1,24 @@
+{
+  "slug": "first-steps",
+  "estimatedTime": 10,
+  "videos": [],
+  "challenges": ["scalar-types"],
+  "slideDecks": [],
+  "badgeUrl": "https://firebasestorage.googleapis.com/v0/b/thearenaproject.appspot.com/o/public%2Farena01%2Fbadges%2F00.jpg?alt=media",
+  "badge": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/thearenaproject.appspot.com/o/public%2Farena01%2Fbadges%2F00.jpg?alt=media",
+      "language": "fr"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/thearenaproject.appspot.com/o/public%2Farena01%2Fbadges_en%2Fshell.jpg?alt=media",
+      "language": "en"
+    }
+  ],
+  "shortDescription": "Ceci est une magnifique description en Français. //NOTE: this is here for retro-compatibility. Use shortDescriptionFr and shortDescriptionEn instead.",
+  "shortDescriptionFr": "Découvre les fondamentaux de TypeScript",
+  "shortDescriptionEn": "Discover the fundamentals of TypeScript",
+  "name": "First Steps //NOTE: this is here for retro-compatibility. Use nameFr and nameEn instead.",
+  "nameFr": "Premiers pas",
+  "nameEn": "First Steps"
+}

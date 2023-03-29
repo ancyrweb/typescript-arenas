@@ -1,0 +1,14 @@
+{
+  "slug": "example",
+  "baseScore": 25,
+  "scorePenaltyPerAttempt": 5,
+  "turnedInFile": "index.ts",
+  "slideDecks": [],
+  "allowedMaterials": [],
+  "name": "exemple //NOTE: Présent pour des raisons de rétro-compatabilité. Utilisez plutôt nameFr et nameEn.",
+  "nameFr": "Types Scalaires",
+  "nameEn": "Scaar Types",
+  "hint": "Ceci est un hint. //NOTE: Présent pour des raisons de rétro-compatabilité. Utilisez plutôt hintFr et hintEn.",
+  "hintFr": "💡 La documentation de TypeScript (Basic Types) est ton amie",
+  "hintEn": "💡 TypeScript's documentation (Basic Types) is your friend"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "typescript-master",
+    "name": "Track boilerplate //NOTE: DEPREACTED, use nameFr and nameEn instead",
+    "nameFr": "TypeScript Master", 
+    "nameEn": "TypeScript Master", 
+    "status": "Published",
+    "challengeCount": 1,
+    "estimatedDays": 30,
+    "description": "Un boilerplate pour votre tout nouveau parcours //NOTE: DEPREACTED, use descriptionFr and descriptionEn instead",
+    "descriptionFr": "Apprenez TypeScript de Zéro à Maître",
+    "descriptionEn": "Learn TypeScript from Zero to Master",
+    "coverUrl": "https://firebasestorage.googleapis.com/v0/b/thearenaproject.appspot.com/o/public%2Fcourses%2Fcourse-01.jpeg?alt=media&token=e3f71205-b3ca-4a57-9ddf-8f148bc9f2cf",
+    "chapters": [
+        "first-steps"
+    ],
+    "authorIds": []
+}
